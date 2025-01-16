@@ -1,2 +1,2 @@
-id: "altan-stuff" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
-name: "Altan Stuff" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
+id: "zerotier-cli" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
+name: "Zerotier Cli" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
