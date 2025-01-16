@@ -1,14 +1,13 @@
-version: "3.7"
-
+version: '3'
 services:
-
-  app_proxy:
-    environment:
-      # The format here is: <app-id>_<docker-service-name>_1
-      APP_HOST: sparkles-hello-world_server_1
-      APP_PORT: 3000
-    
-  server:
-    image: getumbrel/community-app-store-hello-world:latest
-    user: "1000:1000"
-    init: true
+  zerotier:
+    image: zyclonite/zerotier
+    container_name: zerotier-one
+    devices:
+      - /dev/net/tun
+    network_mode: host
+    volumes:
+      - '/var/lib/zerotier-one:/var/lib/zerotier-one'
+    cap_add:
+      - NET_ADMIN
+      - SYS_ADMIN
