@@ -19,11 +19,11 @@ submission: https://github.com/Ferohers/umbrel-com/tree/master/zerotier-cli
 repo: https://github.com/Ferohers/umbrel-com/tree/master/zerotier-cli
 support: https://github.com/Ferohers/umbrel-com/tree/master/zerotier-cli/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/commands.png
+  - https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/commands.png
+  - https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/commands.png
 releaseNotes: >-
-  Third release.
+  Fixes.
 dependencies: []
 path: ""
 defaultUsername: ""
