@@ -11,6 +11,7 @@ description: >-
 
 
   docker exec zerotier-one zerotier-cli join your network ID
+  example command docker exec zerotier-one zerotier-cli join your 11111111111
 
 developer: Zerotier
 website: https://zerotier.com
