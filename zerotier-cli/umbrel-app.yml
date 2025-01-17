@@ -23,7 +23,7 @@ gallery:
   - https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/commands.png
   - https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/commands.png
 releaseNotes: >-
-  Fixes.
+  Fixes. No GUI still need to execute join command.
 dependencies: []
 path: ""
 defaultUsername: ""
