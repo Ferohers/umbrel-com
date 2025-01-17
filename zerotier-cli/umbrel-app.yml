@@ -1,7 +1,7 @@
 manifestVersion: 1
 id: zerotier-cli
 name: Zerotier
-tagline: Zerotier's background process
+tagline: Zerotier for Umbrel
 icon: https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/zerotier.com.svg
 category: Development
 version: "1.2.0"
