@@ -7,7 +7,7 @@ category: Development
 version: "1.3.0"
 port: 9993
 description: >-
-  Do not forget to join your network via Umbrel's terminal or via ssh.
+  This is an unofficial Zerotier release for Umbrel. Do not forget to join your network via Umbrel's terminal or via ssh. 
 
   
   example: sudo docker exec zerotier-one zerotier-cli join 11111111111
