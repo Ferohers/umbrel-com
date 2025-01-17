@@ -4,7 +4,7 @@ name: Zerotier
 tagline: Zerotier's background process
 icon: https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/zerotier.com.svg
 category: Development
-version: "1.1"
+version: "1.0"
 port:9993
 description: >-
 This is Zerotier-cli for Umbrel. It is basic as basic can get. First install it as third party repo. Second install the app and run it.
