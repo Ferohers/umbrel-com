@@ -7,11 +7,10 @@ category: Development
 version: "1.1.0"
 port:
 description: >-
-  This is Zerotier-cli for Umbrel. It is basic as basic can get. First install it as third party repo. Second install the app and run it.
-
+This is Zerotier-cli for Umbrel. It is basic as basic can get. First install it as third party repo. Second install the app and run it.
 
  Now head back to ssh or Umbrel console and run this command. 
- Please run docker exec zerotier-one zerotier-cli join "your network ID"
+ Please run docker exec zerotier-one zerotier-cli join your network ID
 
 developer: Zerotier
 website: https://zerotier.com
