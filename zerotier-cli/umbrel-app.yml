@@ -21,7 +21,7 @@ support: https://github.com/Ferohers/umbrel-com/tree/master/zerotier-cli/issues
 gallery:
   - https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/commands.png
 releaseNotes: >-
-  I hope it works.
+First release.
 dependencies: []
 path: ""
 defaultUsername: ""
