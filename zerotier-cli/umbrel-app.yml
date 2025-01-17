@@ -7,7 +7,10 @@ category: Development
 version: "1.0.0"
 port:9993
 description: >-
-This is Zerotier-cli for Umbrel. It is basic as basic can get. First install it as third party repo. Second install the app and run it.
+  Add your app's description here.
+
+
+  You can also add newlines!
 
 developer: Zerotier
 website: https://zerotier.com
