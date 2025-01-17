@@ -16,7 +16,7 @@ submission: https://github.com/Ferohers/umbrel-com/tree/master/zerotier-cli
 repo: https://github.com/Ferohers/umbrel-com/tree/master/zerotier-cli
 support: https://github.com/Ferohers/umbrel-com/tree/master/zerotier-cli/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://raw.githubusercontent.com/Ferohers/umbrel-com/946f9a3c2b4c2fef9d96193c4fbc7af7a05abc94/zerotier-cli/commands.png
 releaseNotes: >-
 Zerotier docker module for Umbrel.
 dependencies: []
