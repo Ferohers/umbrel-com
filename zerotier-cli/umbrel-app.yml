@@ -4,7 +4,7 @@ name: Zerotier
 tagline: Zerotier for Umbrel
 icon: https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/zerotier.com.svg
 category: Development
-version: "1.2.0"
+version: "1.3.0"
 port: 9993
 description: >-
   Do not forget to join your network via Umbrel's terminal or via ssh.
