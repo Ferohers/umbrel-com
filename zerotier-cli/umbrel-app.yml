@@ -9,10 +9,8 @@ port: 9993
 description: >-
   Do not forget to join your network via Umbrel's terminal or via ssh.
 
-
-  docker exec zerotier-one zerotier-cli join your network ID
   
-  example: command docker exec zerotier-one zerotier-cli join your 11111111111
+  example: sudo docker exec zerotier-one zerotier-cli join your 11111111111
 
 developer: Zerotier
 website: https://zerotier.com
