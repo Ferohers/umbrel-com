@@ -2,7 +2,7 @@ manifestVersion: 1
 id: zerotier-cli
 name: Zerotier
 tagline: Zerotier's background process
-icon: https://authenticator.2stable.com/assets/img/2fa-services/Icons/zerotier.com.svg
+icon: https://raw.githubusercontent.com/Ferohers/umbrel-com/refs/heads/master/zerotier-cli/zerotier.com.svg
 category: Development
 version: "1.0.0"
 port: 4000
