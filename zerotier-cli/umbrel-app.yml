@@ -7,7 +7,7 @@ category: Development
 version: "1.2.0"
 port: 9993
 description: >-
-  Add your app's description here.
+  Do not forget to join your network via Umbrel's terminal or via ssh.
 
 
   You can also add newlines!
