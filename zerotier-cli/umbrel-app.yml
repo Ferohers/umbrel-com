@@ -24,7 +24,7 @@ gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  I hope it works.
+Zerotier docker module for Umbrel.
 dependencies: []
 path: ""
 defaultUsername: ""
