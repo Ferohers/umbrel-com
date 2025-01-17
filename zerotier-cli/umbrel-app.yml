@@ -10,7 +10,7 @@ description: >-
   Do not forget to join your network via Umbrel's terminal or via ssh.
 
 
-  You can also add newlines!
+  docker exec zerotier-one zerotier-cli join your network ID
 
 developer: Zerotier
 website: https://zerotier.com
